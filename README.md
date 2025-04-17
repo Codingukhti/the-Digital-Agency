@@ -1,4 +1,4 @@
-summary of the Digital Agency Project for your resume:
+
 
 Developed a platform for managing digital products, branding, and team collaboration.
 
